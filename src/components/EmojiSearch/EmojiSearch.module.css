@@ -1,0 +1,26 @@
+.spn{
+    font-size:20px;
+  }
+  
+  .emoji{
+    display:inline-block;
+    margin:8px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+  }
+  
+  .img {
+    position: relative;
+    top: 6px;
+    padding: 0 14px;
+  }
+  
+  
+  .ul{
+    display: flex;
+    list-style: none; 
+    justify-content:center;
+    /* flex-direction: column; */
+  }
+  
+  
